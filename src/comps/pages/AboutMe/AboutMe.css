@@ -1,0 +1,22 @@
+.aboutmeH1{
+    text-align: center;
+    padding-top: 30px;
+}
+
+.meImg{
+    width: 380px;
+    height: auto;
+    border-radius: 50%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    clip-path: circle();
+    justify-content: center;
+    display: flex;
+}
+.meBio {
+    display: flex;
+    justify-content: center;
+    padding-left: 150px;
+    padding-right: 150px;
+}

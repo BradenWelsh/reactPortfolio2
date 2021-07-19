@@ -1,0 +1,13 @@
+.contactH1{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+.e-p{
+    display: flex;
+    justify-content: center;
+}
+.contactF{
+    text-align: center;
+    padding-bottom: 30px;
+}
