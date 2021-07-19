@@ -7,7 +7,7 @@
     text-align: center;
   }
   
-  .projectContainer {
+.projectContainer {
     display: flex;
     flex-flow: column;
     align-items: center;
