@@ -14,8 +14,8 @@
 ## License
 * Licensed under Mozilla
 
-## Video and Link to Repo
-* <a href="https://github.com/BradenWelsh/reactPortfolio" rel="nofollow">https://github.com/BradenWelsh/reactPortfolio</a>
+## Video and Link to Deployed Site
+* <a href="https://react-port-bw.herokuapp.com/" rel="nofollow">https://react-port-bw.herokuapp.com/</a>
 * <img src="/public/images/reactPort.png" alt="image of my portfolio.">
 
 ## Questions ✋
